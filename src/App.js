@@ -1,26 +1,20 @@
-import "./App.css";
+import './App.css';
+import AppRouter from './AppRouter';
 
-import React from 'react';
 
 
-import Header from "./Header";
 
-import Livres from "./Livres";
-  
+
+import Header from './Header';
+import Livres from './Livres';
 function App() {
   return (
-    <div className="App">
-     <Header />
-     <Livres /> 
-
+    <div><p>Bibliothèque</p>
+      <Header/>
+      ccadkerd
+      
     </div>
-    
-   // Using the newly created Header 
-   // component in this main component
-
-
   );
 }
+
 export default App;
-
-

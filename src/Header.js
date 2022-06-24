@@ -1,11 +1,23 @@
-import React from 'react'
+import React from "react";
+import { HashRouter as Router, Route } from 'react-router-dom'
+import Livres from "./Livres";
+import NavBar from "./NavBar";
+
+
+
 
 function Header() {
   return (
-    <div>
-      <h1>Bibliothèque</h1>
-    </div>
-  )
+
+    
+      <NavBar />
+      
+
+
+
+
+
+  );
 }
 
-export default Header
+export default Header;
