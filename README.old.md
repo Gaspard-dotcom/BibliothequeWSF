@@ -2,7 +2,7 @@
 
 # BibliothequeWSF
 
-groupe : 
+groupe :
 Klevish haljothi
 Yohan Marchand
 Gaspard Couerbe
