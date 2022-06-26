@@ -21,7 +21,8 @@
     "eject": "react-scripts eject",
     "prettier": "npx prettier --write .",
     "prepare": "husky install",
-    "eslint": "npx eslint './*.html'"
+    "eslint": "npx eslint './*.html'",
+    "viewdb": "json-server --watch db.json"
   },
   "eslintConfig": {
     "extends": [
