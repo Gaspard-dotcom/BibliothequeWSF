@@ -1,0 +1,9 @@
+.Livre {
+  width: 100%;
+  text-align: center;
+}
+
+.Livre > img {
+  width: 100%;
+  height: auto;
+}
